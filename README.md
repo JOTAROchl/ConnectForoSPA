@@ -1,72 +1,95 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ConnectForoSPA
 
-Por favor leer todo
- 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> Este repositorio forma parte de un proyecto institucional. Las siguientes normas aplican exclusivamente a los colaboradores de este proyecto.
 
-Estas reglas solo es valido para los que son colaboradores de este proyecto, si no lo es siga al siguiente punto.
+---
 
-Por favor, si lees este documento estas de acuerdo en respetar las reglas del repositorio ConnectForoSPA.
+## 📜 Reglas del repositorio
 
-· Reglas:
+Al contribuir en este proyecto, aceptas cumplir con las siguientes reglas:
 
-1.- No publicar nada raro en este repositorio.
+- ❌ No publicar contenido inapropiado o ajeno al propósito del proyecto.
+- 🧑‍💻 Participar activamente en el desarrollo del código. La inactividad sin justificación puede llevar a la expulsión del repositorio.
+- ⚠️ No subir archivos maliciosos, con virus u otro tipo de software dañino.
+- 🤝 Si un colaborador tiene dificultades con el código, ayúdalo o sugiérele el uso de herramientas como la inteligencia artificial (IA).
+- 🤖 El uso de IA está permitido solo como apoyo. No se debe copiar completamente una solución generada por IA sin comprenderla, ya que esto se considerará **plagio**.
+- 🔒 No divulgar información privada de ningún miembro del equipo. El respeto a la privacidad y las normativas de protección de datos es obligatorio.
 
-2.- Aportar en el código, el que no lo haga será expulsado de este.
+---
 
-3.- No añadir archivos con virus u algun otro archivo malicioso.
+## ❓ ¿Qué es ConnectForoSPA?
 
-4.- Si alguien no puede arregra algún error del código, por favor ayudenlo o que utilize la IA para resolver su
-    duda o error (se vincula un poco con la siguiente regla).
-    
-5.- El uso de la IA se utilizará para ayudar código, algo que no ha entendido, pero no utilizar todo
-    el codigo hecho por ella, porque de lo contrario se considerará PLAGIO.
+**ConnectForoSPA** es un proyecto que busca crear una plataforma de foros en línea, similar a Reddit o 4chan, en la que los usuarios puedan:
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Crear foros personalizados sobre cualquier tema (hobbies, reseñas, dudas, etc.).
+- Participar en foros de otros usuarios respondiendo o iniciando conversaciones.
 
-· ¿Que es, para que sirve y para quienes está dirigido nuestro proyecto?
+---
 
-Este proyecto se trata de un foro parecido a otras plataformas conocidas como reddit, 4chan, etc... Se trata de que un usuario pueda crear de forma sencilla un
-foro para hablar de lo que sea, algun hobby que tenga, que cosas son las que le gusta, alguna reseña personal de una pelicula que vió, entre otras cosas más,
-también los usuarios pueden entrar a foros de otros usuarios para hablar y/o responder en ellas.
+## 🎯 Objetivo del proyecto
 
-Sirve para que los usuarios puedan hablar y/o responder preguntas de otros usuarios creadores del foro y también para socializar con otros usuarios.
+El propósito es brindar a los usuarios un espacio libre y personalizable para expresarse, compartir ideas o resolver dudas mediante la interacción en foros.
 
-Este proyecto está dirigido a las personas que quieran hablar sobre algo que les interese, alguna duda o alguna otra cosa y que puedan ser respondidos.
+---
 
-Por ahora esto es solo el codigo de este proyecto.
+## 👥 Público objetivo
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Este proyecto está dirigido a personas que deseen hablar de temas que les interesan o resolver inquietudes compartiéndolas con otros.
 
-· ¿Como usar el proyecto?
+> *Actualmente este repositorio contiene solo el código backend del proyecto.*
 
-Ya como este es un proyecto institucional aun no tenemos un ejecutador de la aplicación, tampoco tenemos un FrontEnd (interfaz de usuario) para el foro, si no
-que solo el BackEnd de este (códigos de java y base de datos), pero al poder utilizarlo es necesario tener un poco de conocimiento de programación, cuando se
-active el servidor local o también llamado LocalHost se podrá ingresar al link del foro por la web y si quieres puedes usar Postman.
+---
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ⚙️ ¿Cómo se usa el proyecto?
 
-· ¿Dependencias del proyecto?
+Dado que este es un proyecto en desarrollo y de uso institucional:
 
-Las dependencias para el uso del proyecto sería tener instalado Laragon, Postman y Visual Studio Code, Java, PHP, Spring boot y mySQL.
+- Aún **no cuenta con una interfaz gráfica (FrontEnd)**.
+- Solo incluye el **BackEnd (lógica en Java)**.
+- Para ejecutar el proyecto necesitas conocimientos básicos de programación.
+- Al iniciar un servidor local (localhost), puedes interactuar con el sistema a través de **Postman** para enviar, editar o eliminar datos.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-· ¿Estructura del proyecto?
+## 🧩 Dependencias del proyecto
 
-Aun no tenemos una estructura de los archivos para este proyecto, se cambiará cuando ya esté listo (WIP).
+Para ejecutar y trabajar con este proyecto necesitas:
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [Laragon](https://laragon.org/)
+- [Postman](https://www.postman.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [PHP](https://www.php.net/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [MySQL](https://www.mysql.com/)
 
-·¿Contribuciones?
+---
 
-Principalmente solo somos dos integrantes, nosotros puedemos crear códigos, tambien revisar errores y hacer sugerencias en todo el proyecto, pero si esto fuera
-un proyecto real y no uno institucional, nos hubiera gustado tener más contribuidores que puedan aportar su conocimiento de programación para mejorar el foro.
+## 📁 Estructura del proyecto
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> La estructura del repositorio aún está en desarrollo. Se actualizará una vez finalizada la organización definitiva de los archivos. *(WIP)*
 
-· Licencia del proyecto
+---
 
-Por favor lo unico que les pedimos es no usar este proyecto para cosas maliciosas, pueden usar este repositorio para mejorarlo, este codigo es OpenSource a 
-nosotros no nos importa que nos copien (ya como esto no es real es institucional).
+## 🤝 Contribuciones
+
+Este proyecto fue desarrollado por un equipo pequeño de dos personas. Nos encargamos de:
+
+- Programar y estructurar la base del código.
+- Detectar y corregir errores.
+- Proponer mejoras y funciones.
+
+> Si este fuera un proyecto abierto al público, estaríamos encantados de recibir contribuciones de otros desarrolladores interesados.
+
+---
+
+## 📝 Licencia
+
+Este código es **Open Source** y de uso libre. Puedes estudiarlo, modificarlo o expandirlo.
+
+⚠️ **Prohibido usar este proyecto para fines maliciosos.**
+
+Este trabajo es de carácter educativo/institucional y no representa un producto comercial.
+
+---
 
