@@ -67,7 +67,7 @@ Para ejecutar y trabajar con este proyecto necesitas:
 
 ## 📁 Estructura del proyecto
 
-> La estructura del repositorio aún está en desarrollo. Se actualizará una vez finalizada la organización definitiva de los archivos. *(WIP)*
+> La estructura del repositorio se basa en microservicios, en los Branch se ha dejado cada uno de ellos.
 
 ---
 
