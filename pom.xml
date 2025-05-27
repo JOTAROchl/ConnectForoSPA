@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ConnectForoSPA</artifactId>
+	<artifactId>ConnectForo-SPA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ConnectForoSPA</name>
-	<description>Repositorio ConnectForoSPA</description>
+	<name>ConnectForo-SPA</name>
+	<description>Conexión principal para ConnectForo SPA</description>
 	<url/>
 	<licenses>
 		<license/>
